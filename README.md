@@ -119,7 +119,7 @@ This shows the sequence of events performed in the repository
 ![image](https://user-images.githubusercontent.com/114802910/193419848-9a249c11-219f-4976-984d-4d6d19a906fe.png)
 
  
-16.	** git revert <commitid>**
+16.** git revert <commitid>**
 this command is used to revert the changes pushed in the repository.
 
 
@@ -128,6 +128,9 @@ git clone is primarily used to point to an existing repo and make a clone or cop
  
 
 ![image](https://user-images.githubusercontent.com/114802910/193419646-0ea9ab87-895f-40fe-ab6f-ec5bccafa4a5.png)
+
+18. git pull origin main
+This command is used to pull the new changes from gitrepository to local machine
 
 
 
