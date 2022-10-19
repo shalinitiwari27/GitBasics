@@ -134,6 +134,12 @@ git clone is primarily used to point to an existing repo and make a clone or cop
 18. git pull origin main
 This command is used to pull the new changes from gitrepository to local machine
 
+19. git remote remove origin
+This command removes the origin
+
+![image](https://user-images.githubusercontent.com/114802910/196788349-67272a1e-10be-4c39-acb2-2d150ddc2798.png)
+
+
 
 
 
