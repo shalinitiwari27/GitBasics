@@ -74,9 +74,9 @@ Note : By default master is the local branch but in git the default branch is ma
  
       Deletes a branch
           
- 9.3. git branch developer1 
- 
+ 9.3. git branch developer1  
       Create a branch
+ 
       ![image](https://user-images.githubusercontent.com/114802910/193420725-df698da5-7725-422e-978b-8d90f4cfc484.png)
 
  
