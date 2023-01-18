@@ -139,6 +139,12 @@ This command removes the origin
 
 ![image](https://user-images.githubusercontent.com/114802910/196788349-67272a1e-10be-4c39-acb2-2d150ddc2798.png)
 
+20. git diff
+When the files are changes locally and not pushed to stagging(i.e. no git add command executed) then git diff is used to find the difference between local and staged file.
+
+21. git diff --staged or git diff --cached
+When the changed files are pushed to staging but not in the repository, git diff --cached or git diff --staged provides the difference in the file in staging and the one in repository
+
 
 
 
